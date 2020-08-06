@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="remapdict", # Replace with your own username
-    version="0.1.0",
+    version="0.1.1",
     author="Dylan Culfogienis",
     author_email="dculfogienis@expr.net",
     description="A convenience function for arbitrarily remapping dictionary keys, taking subsets, etc.",
